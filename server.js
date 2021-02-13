@@ -6,7 +6,7 @@ const prefix = ''
   console.log(
     `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
   );
-  let statuses = ['|𝗔𝗠_𝗨𝗣📌✌|','|با بتبا ئاو، مەدە لە پردی ناپیاو⛔|','|☀𝗔𝗕𝗢 𝗨𝗣⬆☀|',' 💔😥 خۆشبەختی گران بوو ئێمەشە هەژار بووین']
+  let statuses = ['|لە بێگانەیەکەوە بووی بە ئازیزترین کەسم|','|peryam|','||',' بوونت بۆمن شانازیە ']
   
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -48,10 +48,10 @@ message.channel.send(`وێنەی ئەکاونتەکەت ئەوەیە <:emoji_299
 break;
  
 
-case "<@652999772122120202>":
+case "<@790600594838257696>":
         
       
-message.channel.send("فــەرمـــوو دڵـــی مــن ❤ ")
+message.channel.send("فــەرمـــوو  ❤ ")
         
 
 
@@ -60,32 +60,32 @@ message.channel.send("فــەرمـــوو دڵـــی مــن ❤ ")
 
 client.on("message", msg => {
   if (msg.content === "slaw") {
-    msg.reply("**baxer bey dlm ❤**");
+    msg.reply("**baxer bey  ❤**");
   }
 });
 
 
 client.on("message", msg => {
   if (msg.content === "reklam") {
-    msg.reply("** farmw dllm https://discord.gg/bnMJzry ❤**");
+    msg.reply("** farmw https://discord.gg/99KsGZHrsv ❤**");
   }
 });
 
 client.on("message", msg => {
   if (msg.content === "hi") {
-    msg.reply("**baxer bey gyana ❤ **");
+    msg.reply("**baxer bey  ❤ **");
   }
 });
 
 client.on("message", msg => {
   if (msg.content === "222") {
-    msg.reply("**hawl dawa dllm ❤ **");
+    msg.reply("**hawl dawa  ❤ **");
   }
 });
 
 client.on("message", msg => {
-  if (msg.content === "abo") {
-    msg.reply("**<@652999772122120202> xoy chwabt adatawa ❤**");
+  if (msg.content === "mama") {
+    msg.reply("**<@790600594838257696> xoy chwabt adatawa ❤**");
   }
 });
 
