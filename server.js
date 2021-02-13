@@ -6,7 +6,7 @@ const prefix = ''
   console.log(
     `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
   );
-  let statuses = ['|لە بێگانەیەکەوە بووی بە ئازیزترین کەسم|','|peryam|','||',' بوونت بۆمن شانازیە ']
+  let statuses = ['|لە بێگانەیەکەوە بووی بە ئازیزترین کەسم|','|peryam|','|ژیانم لە کەسێکدایە|',' بوونت بۆمن شانازیە ']
   
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
