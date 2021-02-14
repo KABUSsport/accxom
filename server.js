@@ -78,7 +78,7 @@ client.on("message", msg => {
 });
 
 client.on("message", msg => {
-  if (msg.content === " o cash") {
+  if (msg.content === "O cash") {
     msg.reply("** 50k bnera ba aqre   **");
   }
 });
