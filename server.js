@@ -78,7 +78,7 @@ client.on("message", msg => {
 });
 
 client.on("message", msg => {
-  if (msg.content === " O cash") {
+  if (msg.content === " o cash") {
     msg.reply("** 50k bnera ba aqre   **");
   }
 });
@@ -163,7 +163,7 @@ client.on("message", message => {
 
 
 
-client.login("");
+client.login("mfa.cKjw9e6z-FHslmAqL1clh5TSGW5CiLvNZLr750CCZgqswEA9jGrGtSpZCga3WZhiAQEErffpSLp1_TRcQNUl");
 
 
 
