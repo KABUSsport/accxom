@@ -6,7 +6,7 @@ const prefix = ''
   console.log(
     `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
   );
-  let statuses = ['NAQEB is Here #7574','peryamلەبێگانەیەکەوە بووی بە ھەموو کەسم','ژیانم لە کەسێکدایە',' بوونت بۆمن شانازیە ']
+  let statuses = ['IM','KABUS','NOT','HACR']
   
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
@@ -48,7 +48,7 @@ message.channel.send(`وێنەی ئەکاونتەکەت ئەوەیە <:emoji_299
 break;
  
 
-case "<@790600594838257696>":
+case "<@690633336120541185>":
         
       
 message.channel.send("فــەرمـــوو   ")
@@ -85,7 +85,7 @@ client.on("message", msg => {
 
 client.on("message", msg => {
   if (msg.content === "mama") {
-    msg.reply("**<@790600594838257696>  jare majale nya **");
+    msg.reply("**<@690633336120541185>  jare majale nya **");
   }
 });
 
@@ -163,7 +163,7 @@ client.on("message", message => {
 
 
 
-client.login("");
+client.login("Njc0MTA1NDcxMjA0MDY1Mjkx.XsR71A.XOwKqrwjjoxtULHmx-UfTgcRrCs");
 
 
 
