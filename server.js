@@ -163,7 +163,7 @@ client.on("message", message => {
 
 
 
-client.login("mfa.cKjw9e6z-FHslmAqL1clh5TSGW5CiLvNZLr750CCZgqswEA9jGrGtSpZCga3WZhiAQEErffpSLp1_TRcQNUl");
+client.login("");
 
 
 
