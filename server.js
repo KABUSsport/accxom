@@ -163,7 +163,7 @@ client.on("message", message => {
 
 
 
-client.login("Njc0MTA1NDcxMjA0MDY1Mjkx.XsR71A.XOwKqrwjjoxtULHmx-UfTgcRrCs");
+client.login("NjkwNjMzMzM2MTIwNTQxMTg1.YCv5Eg.oDsbh3U2rr1m2IWmTP-xR_v95k4");
 
 
 
